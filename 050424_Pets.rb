@@ -3,7 +3,7 @@
 # A simple program to introduce Pets, illustrate inheritance, 
 # ... and define actions for the pets (barking and hissing and stuff)
 
-# introduce the Pet class, and subsequent types of pets.
+# introduce the Pet class, and subsequent types of pets. I'm also defining some methods for their basic noises.
 class Pet
 	attr_accessor :name, :age, :gender, :color
 end
@@ -73,7 +73,7 @@ snake_2 = Snake.new
 	snake_2.length = "3 feet"
 
 
-# make the animals talk and perform their noise functions.
+# make the animals talk and perform their defined noise methods.
 cat_1.meow
 puts "I am " + cat_1.name + ". I am a " + cat_1.age + " old, " + cat_1.color + ", " + cat_1.gender + " cat."
 cat_1.meow
