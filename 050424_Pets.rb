@@ -2,7 +2,6 @@
 # 050424 _ by Morgan Voisin
 # A simple program to introduce Pets, illustrate inheritance, 
 # ... and define actions for the pets (barking and hissing and stuff)
-# test comment
 
 # introduce the Pet class, and subsequent types of pets. I'm also defining some methods for their basic noises.
 class Pet
