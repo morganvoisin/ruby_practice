@@ -1,3 +1,9 @@
+=begin
+name: if_else_workshop
+date: 05-07-24
+by: morgan voisin
+=end
+
 # define x and y with user input
 print "Define x with an integer: "
 x = Integer(gets.chomp)
