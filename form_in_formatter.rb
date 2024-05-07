@@ -1,3 +1,9 @@
+=begin
+Form in Formatter, a CodeAcademy lab
+by Morgan Voisin 
+on 05.07.24
+=end
+
 print "What's your first name? "
 first_name = gets.chomp
 first_name.capitalize!
