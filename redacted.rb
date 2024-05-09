@@ -3,6 +3,7 @@
 # date: 05/09/24
 
 # a simple program to take user input, and then redact a specific user-identified word.
+# ... part of my codeacademy workshop
 
 puts "Text to search through: "
 text = gets.chomp
