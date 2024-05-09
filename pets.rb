@@ -1,6 +1,6 @@
 # Ruby Pets
 # 050424 _ by Morgan Voisin
-# A simple program to introduce Pets, illustrate inheritance, 
+# A simple program to introduce Pets, illustrate inheritance,
 # ... and define actions for the pets (barking and hissing and stuff)
 
 # introduce the Pet class, and subsequent types of pets.
@@ -68,7 +68,7 @@ snake_1 = Snake.new
 snake_2 = Snake.new
 	snake_2.name = "Faith the Rat Slayer"
 	snake_2.age = "3 year"
-	snake_2.gender = "female" 
+	snake_2.gender = "female"
 	snake_2.color = "pink"
 	snake_2.length = "3 feet"
 
@@ -93,3 +93,5 @@ snake_1.hiss
 snake_2.hiss_2
 puts "I am " + snake_2.name + ". I am a " + snake_2.age + " old, " + snake_2.color + ", " + snake_2.gender + " snake."
 snake_1.hiss
+
+#test comment 	
